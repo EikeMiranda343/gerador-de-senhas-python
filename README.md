@@ -1,12 +1,5 @@
-<h1 align="center">🔐 Gerador de Senhas Seguras em Python</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.8%2B-blue?logo=python" alt="Python Version">
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/123456789/123456789-abcdef00-1234-5678-90ab-cdef12345678.gif" width="400" alt="Demo">
-</div>
+<h1>🔐 Gerador de Senhas Seguras em Python</h1>
+<p>Um projeto simples porém eficaz para gerar senhas aleatórias e personalizáveis, desenvolvido em Python.</p>
 
 <h2>✨ Funcionalidades</h2>
 
